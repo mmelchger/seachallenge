@@ -1,0 +1,15 @@
+What is AIS?
+
+https://en.wikipedia.org/wiki/Automatic_identification_system
+
+And what is NMEA?
+
+https://en.wikipedia.org/wiki/NMEA_0183
+
+What does an NMEA sentence look like (as sent by the dAISy2+ receiver):
+
+http://catb.org/gpsd/AIVDM.html
+
+How to quickly decode NMEA0183 messages?
+
+See ../code/source/converter for a functioning MWE (minimal working example)
