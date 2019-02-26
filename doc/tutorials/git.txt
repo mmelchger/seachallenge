@@ -1,0 +1,8 @@
+Installation guide and practical introduction to using git can be found online: 
+
+https://rogerdudler.github.io/git-guide/index.de.html
+
+After installation clone from the repository:
+
+https://github.com/mmelchger/seachallenge.git
+
